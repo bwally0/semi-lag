@@ -1,5 +1,7 @@
 # Semi-Lagrangian 3rd Order Model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16540374.svg)](https://doi.org/10.5281/zenodo.16540374)
+
 - Mohamed Moustaoui, PhD
 - Matei Georgescu, PhD
 
